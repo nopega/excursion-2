@@ -22,7 +22,9 @@ body {
 .header--sub-header  {
     font-size: 21px;
     color: gray;
-    
-
-
+}
+.footer--copyright{
+    font-size:21px;
+    color: grey;
+    text-align:right;
 }
